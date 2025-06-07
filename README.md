@@ -1,0 +1,2 @@
+# Dotfiles
+Neovim custom configurations
