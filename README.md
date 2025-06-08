@@ -1,2 +1,1 @@
-# Dotfiles
-Neovim custom configurations
+# 🎨 Neovim custom configurations
